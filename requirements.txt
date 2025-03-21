@@ -1,4 +1,5 @@
-selenium
-webdriver-manager
-python-telegram-bot
+python-telegram-bot==20.6
+requests
+beautifulsoup4
 persiantools
+python-dotenv
